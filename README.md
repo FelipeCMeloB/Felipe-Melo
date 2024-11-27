@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Atualmente, estou f
 Um projeto que visa mapear e ajudar a entender as emoções humanas através de uma representação visual. Com isso, busco promover a auto-reflexão e o bem-estar emocional.
 
 ## 🏆 Certificados
-- Certificado de **Java** pela **Cisco**.
+- Certificado de **JavaScript** pela **Cisco**.
 
 ## 📲 Conecte-se comigo
 - [LinkedIn](https://www.linkedin.com/in/felipe-cavalcanti-melo-bezerra-14b642339/)
